@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <app-help>?</app-help>
+    <a href="https://github.com/Freekazoid/lines_task">show gitHub repositoriy</a>
     <img src="./assets/logo.png">
     <router-view/>
   </div>
